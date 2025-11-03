@@ -1,0 +1,27 @@
+const config = {
+  experimentalTernaries: false,
+  experimentalOperatorPosition: "end",
+  printWidth: 80,
+  tabWidth: 2,
+  useTabs: false,
+  semi: true,
+  singleQuote: false,
+  quoteProps: "as-needed",
+  jsxSingleQuote: false,
+  trailingComma: "none",
+  bracketSpacing: true,
+  objectWrap: "preserve",
+  bracketSameLine: false,
+  arrowParens: "always",
+  requirePragma: false,
+  insertPragma: false,
+  checkIgnorePragma: false,
+  proseWrap: "preserve",
+  htmlWhitespaceSensitivity: "css",
+  vueIndentScriptAndStyle: false,
+  endOfLine: "lf",
+  embeddedLanguageFormatting: "auto",
+  singleAttributePerLine: false,
+};
+
+export default config;
